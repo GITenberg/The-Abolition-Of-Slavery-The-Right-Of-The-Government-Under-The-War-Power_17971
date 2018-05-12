@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '7730'
     url: http://www.gutenberg.org/2009/agents/7730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17971#The-Abolition-Of-Slavery-The-Right-Of-The-Government-Under-The-War-Power
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2006-03-12'
 gutenberg_type: Text
