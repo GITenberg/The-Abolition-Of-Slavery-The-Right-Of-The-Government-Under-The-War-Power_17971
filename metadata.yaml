@@ -1,0 +1,30 @@
+_repo: The-Abolition-Of-Slavery-The-Right-Of-The-Government-Under-The-War-Power_17971
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Garrison, William Lloyd
+    alias: Garrison, W. L. (William Lloyd)
+    birthdate: 1805
+    deathdate: 1879
+    gutenberg_agent_id: '7730'
+    url: http://www.gutenberg.org/2009/agents/7730
+description: ''
+gutenberg_bookshelf: Slavery
+gutenberg_issued: '2006-03-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17971'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcc 'KF'
+- !lcsh 'War and emergency powers -- United States'
+- !lcsh 'Slavery -- United States'
+title: The Abolition Of Slavery The Right Of The Government Under The War Power
+url: http://www.gutenberg.org/ebooks/17971
